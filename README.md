@@ -101,7 +101,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Riley Rutan**. I’m am Masters of Big Data Analytics Student at San Diego State University. 
+Hi there! I'm **Riley Rutan**. I’m a Masters of Big Data Analytics Student at San Diego State University. 
 
 Let's stay in touch! Feel free to connect with me at riley.rutan@gmail.com or on linkedin: https://www.linkedin.com/in/riley-rutan-2a5ba5178/
 
